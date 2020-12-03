@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="textTitle">  Can You Afford That?</string>
+    <string name="expensesText">EXPENSES:</string>
+    <string name="rentText">RENT</string>
+    <string name="incomeText">INCOME:</string>
+    <string name="purchaseText">PURCHASE:</string>
+    <string name="resultText">RESULT</string>
+    <string name="calculateButton">CALCULATE</string>
+    <string name="weeklyRadioButton">Weeks</string>
+    <string name="monthlyRadioButton">Months</string>
+    <string name="yearlyRadioButton">Years</string>
+    <string name="expensesInputHint">[Expenses]$</string>
+    <string name="incomeInputHint">[Income]$</string>
+    <string name="SavingsText">How Much to Save:</string>
+    <string name="savingsInput">[Savings]$</string>
+    <string name="purchaseInput">[Purchase]$</string>
+    <string name="explainText">Input your income, expenses, and the value you prefer to save for this purchase (or do not and the app will calculate it for you!)</string>
+</resources>
